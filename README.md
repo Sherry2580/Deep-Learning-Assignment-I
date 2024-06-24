@@ -15,7 +15,7 @@ Implement an image classification system using at least three different classifi
 
 - Method 2 : HOG
 
-| Model         | Accuracy | F1 Score | Time (s) |
+| Model         | Accuracy | F1 Score | Time  |
 | ------------- | -------- | -------- | -------- |
 | SVM           | 0.05     | 0.0294     | 1h 47min 10s  |
 | KNN           | 0.02     | 0.0083     | 2.27 s     |
@@ -23,7 +23,7 @@ Implement an image classification system using at least three different classifi
 
 - Method 3 : SIFT
 
-| Model         | Accuracy | F1 Score | Time (s) |
+| Model         | Accuracy | F1 Score | Time  |
 | ------------- | -------- | -------- | -------- |
 | SVM           | 0.11     | 0.0802     | 37min 46s  |
 | KNN           | 0.02     | 0.0175     | 580 ms   |
